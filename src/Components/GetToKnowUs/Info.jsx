@@ -2,7 +2,7 @@
 
 const Info = () => {
   return (
-    <div id="info" className='px-[5vw]'>
+    <div id="info" className='px-[5vw] md:pt-[10vh] h-[50vh]'>
       <div className="title text-center text-5xl text-gray-400 font-bold">
         Get To Know Us!
       </div>
