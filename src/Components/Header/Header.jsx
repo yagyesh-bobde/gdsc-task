@@ -62,7 +62,7 @@ const Header = () => {
 
        <div className="drawer block absolute top-0 left-0 w-[200px] h-[250px]">
           
-      </div>
+       </div>
     </div>
   )
 }
