@@ -1,9 +1,9 @@
 
 
-const FAQs = () => {
+const Faqs = () => {
   return (
     <div>FAQs</div>
   )
 }
 
-export default FAQs
+export default Faqs
