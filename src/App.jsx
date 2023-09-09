@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import Header from "./Components/Header/Header";
 import Main from "./Components/Main/Main";
-import Faqs from "./Components/Faqs/Faqs";
+// import Faqs from "./Components/Faqs/Faqs";
 import Footer from "./Components/Footer/Footer";
 import Info from './Components/GetToKnowUs/Info'
 import aos from "aos";
@@ -27,7 +27,7 @@ function App() {
             <Header />
             <Main />
             <Info />
-            <Faqs />
+            {/* <Faqs /> */}
             <Footer />
         </>
     );
