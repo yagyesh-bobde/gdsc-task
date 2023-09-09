@@ -1,9 +1,9 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import GDSCLogo from '../../assets/Header/gdsclogo.svg'
 import styles from './Header.module.css'
 
 const Header = () => {
-  const [showDrawer, setshowDrawer] = useState(false)
+  // const [showDrawer, setshowDrawer] = useState(false)
   return (
     <div className='sticky top-0 left-0 z-20' >
         <nav className="hidden sm:flex items-center justify-between w-screen min-h-[10vh] shadow-xl px-[5vw]">
